@@ -1,4 +1,4 @@
-# Usando Git
+# Usando Git e GitHub
 
 - Bruno
 - Joao
