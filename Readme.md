@@ -1,4 +1,4 @@
-# Usando Git
+# Usando Git e Linux
 
 - Bruno
 - Joao
